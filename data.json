@@ -1,0 +1,197 @@
+[
+    {
+        "context": {
+            "university_name": "GSFC University",
+            "full_name": "Gujarat State Fertilizers & Chemicals University",
+            "location": {
+                "city": "Vadodara",
+                "state": "Gujarat",
+                "country": "India",
+                "address": "P.O. Fertilizernagar, Vadodara - 391750, Gujarat, India"
+            },
+            "establishment": {
+                "year": 2014,
+                "type": "Private University",
+                "sponsor": "Gujarat State Fertilizers & Chemicals Limited (GSFC)"
+            },
+            "accreditation": {
+                "status": "Recognized by UGC",
+                "accrediting_body": "University Grants Commission (UGC)"
+            },
+            "academic_programs": {
+                "undergraduate": [
+                    {
+                        "name": "B.Tech",
+                        "specializations": [
+                            "Chemical Engineering",
+                            "Computer Science Engineering",
+                            "Mechanical Engineering",
+                            "Electrical Engineering",
+                            "Civil Engineering"
+                        ],
+                        "duration": "4 years"
+                    },
+                    {
+                        "name": "B.Sc",
+                        "specializations": [
+                            "Chemistry",
+                            "Physics",
+                            "Mathematics",
+                            "Computer Science"
+                        ],
+                        "duration": "3 years"
+                    }
+                ],
+                "postgraduate": [
+                    {
+                        "name": "M.Tech",
+                        "specializations": [
+                            "Chemical Engineering",
+                            "Computer Science Engineering",
+                            "Mechanical Engineering"
+                        ],
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "M.Sc",
+                        "specializations": [
+                            "Chemistry",
+                            "Physics",
+                            "Mathematics"
+                        ],
+                        "duration": "2 years"
+                    }
+                ],
+                "phd": {
+                    "available": "True",
+                    "departments": [
+                        "Chemical Engineering",
+                        "Computer Science",
+                        "Mechanical Engineering",
+                        "Chemistry",
+                        "Physics",
+                        "Mathematics"
+                    ]
+                }
+            },
+            "campus_facilities": {
+                "academic": [
+                    "Modern Classrooms",
+                    "Well-equipped Laboratories",
+                    "Central Library",
+                    "Computer Center",
+                    "Research Centers"
+                ],
+                "sports": [
+                    "Sports Complex",
+                    "Indoor Sports Facilities",
+                    "Outdoor Sports Ground"
+                ],
+                "other": [
+                    "Auditorium",
+                    "Conference Hall",
+                    "Hostel Facilities",
+                    "Cafeteria",
+                    "Medical Center",
+                    "Wi-Fi Campus"
+                ]
+            },
+            "research_centers": [
+                "Center for Chemical Engineering",
+                "Center for Computer Science",
+                "Center for Mechanical Engineering",
+                "Center for Basic Sciences"
+            ],
+            "industry_connections": {
+                "parent_company": "Gujarat State Fertilizers & Chemicals Limited (GSFC)",
+                "collaborations": [
+                    "Industry-Academia Partnerships",
+                    "Research Collaborations",
+                    "Internship Programs"
+                ]
+            },
+            "admission_process": {
+                "undergraduate": "Based on GUJCET/JEE Main scores",
+                "postgraduate": "Based on GATE/PGCET scores",
+                "phd": "Based on entrance exam and interview"
+            },
+            "notable_features": [
+                "Industry-oriented curriculum",
+                "Strong focus on research and innovation",
+                "State-of-the-art infrastructure",
+                "Industry exposure through GSFC Limited",
+                "Placement opportunities in GSFC and other companies"
+            ],
+            "university_authorities": {
+                "chancellor": {
+                    "position": "Chancellor",
+                    "name": "Dr. Rajiv Kumar Gupta",
+                    "role": "Overall head of the university"
+                },
+                "vice_chancellor": {
+                    "position": "Vice Chancellor",
+                    "name": "Dr. J. N. Patel",
+                    "role": "Academic and administrative head"
+                },
+                "registrar": {
+                    "position": "Registrar",
+                    "name": "Dr. H. N. Shah",
+                    "role": "Administrative head"
+                },
+                "academic_council": {
+                    "chairperson": "Vice Chancellor",
+                    "members": [
+                        "Deans of all faculties",
+                        "Department Heads",
+                        "External academic experts"
+                    ],
+                    "responsibilities": [
+                        "Academic policy making",
+                        "Curriculum development",
+                        "Academic standards maintenance"
+                    ]
+                },
+                "department_heads": {
+                    "engineering": {
+                        "chemical": "Dr. P. K. Ghosh",
+                        "computer_science": "Dr. S. K. Patel",
+                        "mechanical": "Dr. R. K. Desai",
+                        "electrical": "Dr. M. K. Shah",
+                        "civil": "Dr. A. K. Verma"
+                    },
+                    "science": {
+                        "chemistry": "Dr. N. K. Patel",
+                        "physics": "Dr. B. K. Sharma",
+                        "mathematics": "Dr. C. K. Gupta",
+                        "computer_science": "Dr. D. K. Mehta"
+                    }
+                },
+                "administrative_staff": {
+                    "finance_controller": "Mr. R. S. Patel",
+                    "chief_exam_controller": "Dr. M. N. Shah",
+                    "student_affairs": "Dr. K. P. Desai",
+                    "placement_cell": "Dr. S. R. Gupta",
+                    "research_coordinator": "Dr. A. R. Sharma"
+                },
+                "committees": {
+                    "admission": {
+                        "chairperson": "Vice Chancellor",
+                        "purpose": "Oversee admission process and policy"
+                    },
+                    "examination": {
+                        "chairperson": "Chief Exam Controller",
+                        "purpose": "Manage examination system"
+                    },
+                    "research": {
+                        "chairperson": "Research Coordinator",
+                        "purpose": "Oversee research activities"
+                    },
+                    "discipline": {
+                        "chairperson": "Registrar",
+                        "purpose": "Maintain campus discipline"
+                    }
+                }
+            }
+        }
+    }
+]
